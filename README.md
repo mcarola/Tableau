@@ -1,7 +1,7 @@
-# Tableau & Power BI Data Visualization Projects
+# Tableau Data Visualization Projects
 
 ## 📊 Project Overview
-This repository showcases my data visualization and business intelligence skills through comprehensive projects in Tableau and Power BI. The work demonstrates my ability to transform complex datasets into actionable insights using interactive dashboards, advanced analytics, and professional reporting techniques.
+This repository showcases my data visualization skills through comprehensive Tableau projects. The work demonstrates my ability to transform complex datasets into actionable insights using interactive dashboards, advanced analytics, and compelling visual storytelling.
 
 ## 🎯 Skills Demonstrated
 
@@ -12,22 +12,15 @@ This repository showcases my data visualization and business intelligence skills
 - **Calculated Fields**: Quick table calculations, percentage of total, trend analysis
 - **Publishing**: Deploying dashboards to Tableau Public for stakeholder access
 
-### Power BI Proficiency
-- **Data Modeling**: Combining multiple data sources (Excel, OData feeds)
-- **Report Design**: Creating professional, interactive reports with custom visualizations
-- **Data Transformation**: Cleaning and preparing data using Power Query
-- **DAX Functions**: Implementing measures and calculated columns
-- **Publishing & Sharing**: Deploying reports to Power BI Service
-
 ### Analytical Capabilities
 - **Trend Analysis**: Identifying patterns across time series and geographic data
 - **Comparative Analysis**: Multi-dimensional comparisons across countries, demographics, and metrics
-- **Correlation Studies**: Exploring relationships between health, music, and business metrics
+- **Correlation Studies**: Exploring relationships between health and music metrics
 - **Data Storytelling**: Communicating insights through visual narratives
 
 ## 📁 Featured Projects
 
-### Project 1: Global Health Insights Dashboard (Tableau)
+### Project 1: Global Health Insights Dashboard
 **Dataset**: Gapminder Health Data  
 **Live Dashboard**: [View on Tableau Public](https://public.tableau.com/app/profile/marvy.calderin/viz/GlobalHealthInsights_17652849913510/GlobalHealthInsights?publish=yes)
 
@@ -73,7 +66,7 @@ Analyzed global health metrics to support a healthcare organization in identifyi
 
 ---
 
-### Project 2: Spotify Music Trends Analysis (Tableau)
+### Project 2: Spotify Music Trends Analysis
 **Dataset**: Spotify Features (232,725 tracks)  
 **Live Dashboard**: [View on Tableau Public](https://public.tableau.com/app/profile/marvy.calderin/viz/SpotifyTrends_17652946939780/SpotifyTrends)
 
@@ -108,83 +101,27 @@ Analyzed Spotify's music library to uncover trends in popularity, musical charac
 
 ---
 
-### Project 3: Financial Sales Analysis (Power BI)
-**Source**: Microsoft Learn Tutorial - Excel to Stunning Report
-
-#### Project Scope
-Transformed Excel financial data into an interactive Power BI report demonstrating data modeling, visualization design, and professional reporting capabilities.
-
-#### Technical Implementation
-- Data import and transformation from Excel workbooks
-- Relationship modeling between multiple tables
-- Custom measures and calculated columns
-- Professional report layout and formatting
-- Published to Power BI Service for cloud access
-
-#### Skills Demonstrated
-- ETL processes in Power Query
-- Data modeling best practices
-- Visual hierarchy and design principles
-- Report optimization for performance
-
----
-
-### Project 4: Sales Data Integration (Power BI)
-**Source**: Microsoft Learn Tutorial - Combining Excel & OData
-
-#### Project Scope
-Integrated multiple data sources (Excel + OData feed) to create a comprehensive sales analysis report, demonstrating advanced data connection and transformation skills.
-
-#### Technical Implementation
-- Multi-source data connectivity
-- OData feed integration
-- Data relationship configuration
-- Advanced filtering and slicing
-- Cross-source data validation
-
-#### Key Competencies
-- Heterogeneous data source management
-- API/feed integration
-- Data quality assurance
-- Real-time data refresh capabilities
-
----
-
-### Project 5: Data Cleaning & Transformation (Power BI)
-**Source**: Microsoft Learn Lab Exercise
-
-#### Project Scope
-Completed hands-on lab focusing on data loading, cleaning, and transformation techniques essential for production-ready reports.
-
-#### Techniques Applied
-- Data profiling and quality assessment
-- Column transformations and type conversions
-- Handling missing values and duplicates
-- Data standardization
-- Query optimization
-
----
-
 ## 🛠️ Technical Skills Summary
 
-### Tableau
+### Tableau Capabilities
+
 | Feature | Application |
 |---------|-------------|
 | **Chart Types** | Bar, Line, Scatter, Pie, Custom visualizations |
 | **Calculations** | Quick table calculations, Percentage of Total, Aggregations |
 | **Filters** | Top N, Single Value dropdowns, Date filters, Global filters |
 | **Dashboard Design** | Multi-sheet layouts, Interactive elements, Responsive design |
+| **Data Preparation** | Data cleaning, transformation, and structuring |
 | **Publishing** | Tableau Public deployment and sharing |
 
-### Power BI
-| Feature | Application |
-|---------|-------------|
-| **Data Connectivity** | Excel, OData, Multiple sources |
-| **Power Query** | ETL processes, Data transformation, Cleaning |
-| **Data Modeling** | Relationships, Star schema, Best practices |
-| **DAX** | Measures, Calculated columns, Time intelligence |
-| **Report Design** | Professional layouts, Custom visuals, Interactivity |
-| **Deployment** | Power BI Service publishing and sharing |
+### Advanced Features Implemented
+
+✅ **Top N Filtering** - Dynamically display top performers  
+✅ **Global Dashboard Filters** - Cross-sheet interactivity  
+✅ **Quick Table Calculations** - Percentage of total, running totals  
+✅ **Color Encoding** - Multi-dimensional data representation  
+✅ **Interactive Parameters** - User-driven analysis  
+✅ **Multi-Sheet Dashboards** - Comprehensive analytical views  
 
 ## 💼 Business Intelligence Applications
 
@@ -200,33 +137,30 @@ Completed hands-on lab focusing on data loading, cleaning, and transformation te
 - Artist performance analytics
 - Content recommendation insights
 
-### Sales & Finance
-- Revenue trend analysis
-- Multi-source data integration
-- Performance metric tracking
-- Forecasting and planning support
-
 ## 📈 Key Achievements
 
 ✅ Published multiple interactive dashboards to Tableau Public  
-✅ Successfully integrated multiple data sources in Power BI  
-✅ Completed Microsoft Learn certification labs  
+✅ Analyzed datasets ranging from hundreds to 232,000+ records  
 ✅ Delivered actionable insights for healthcare and entertainment sectors  
-✅ Demonstrated end-to-end BI project lifecycle from data to deployment  
+✅ Created user-friendly dashboards with intuitive navigation  
+✅ Demonstrated end-to-end visualization project lifecycle  
 
 ## 🔗 Live Dashboards
+
+Explore my interactive Tableau dashboards:
 
 - **Global Health Insights**: [View Dashboard](https://public.tableau.com/app/profile/marvy.calderin/viz/GlobalHealthInsights_17652849913510/GlobalHealthInsights?publish=yes)
 - **Spotify Music Trends**: [View Dashboard](https://public.tableau.com/app/profile/marvy.calderin/viz/SpotifyTrends_17652946939780/SpotifyTrends)
 
 ## 🎓 Training & Certification
 
-**Program**: Data Technician Training  
+**Program**: Data Technician Training - Tableau Module  
 **Focus Areas**: 
-- Tableau Desktop & Tableau Public
-- Power BI Desktop & Power BI Service
-- Data Visualization Best Practices
-- Business Intelligence Fundamentals
+- Tableau Desktop fundamentals
+- Tableau Public publishing
+- Data visualization best practices
+- Dashboard design principles
+- Interactive analytics
 
 **Completion Date**: December 2025
 
@@ -234,20 +168,25 @@ Completed hands-on lab focusing on data loading, cleaning, and transformation te
 
 - **Tableau Desktop** - Data visualization and dashboard creation
 - **Tableau Public** - Publishing and sharing dashboards
-- **Power BI Desktop** - Report design and development
-- **Power BI Service** - Cloud deployment and collaboration
-- **Power Query** - Data transformation and ETL
-- **DAX** - Data Analysis Expressions for calculations
-- **Excel** - Data preparation and analysis
+- **Excel** - Data preparation and initial analysis
+- **CSV Processing** - Handling large-scale datasets
 
 ## 💡 Best Practices Applied
 
 - **User-Centric Design**: Dashboards designed with end-user needs in mind
-- **Data Integrity**: Rigorous data cleaning and validation processes
-- **Performance Optimization**: Efficient queries and optimized visualizations
-- **Accessibility**: Clear labels, legends, and color schemes
-- **Storytelling**: Logical flow and narrative structure in reports
-- **Documentation**: Comprehensive notes and context for all projects
+- **Data Integrity**: Rigorous data validation and quality checks
+- **Performance Optimization**: Efficient calculations and optimized visualizations
+- **Accessibility**: Clear labels, legends, and intuitive color schemes
+- **Visual Hierarchy**: Logical flow and narrative structure
+- **Interactivity**: Filters and parameters for user exploration
+- **Documentation**: Comprehensive context and insights for all projects
+
+## 📊 Dataset Complexity
+
+| Project | Records | Dimensions | Measures | Complexity |
+|---------|---------|------------|----------|------------|
+| Global Health Insights | ~5,000+ | Countries, Continents, Gender, Year | Life Expectancy, BMI, Population | High |
+| Spotify Trends | 232,725 | Genre, Artist, Track | Popularity, Valence, Danceability, Energy | Very High |
 
 ## 🤝 Connect With Me
 
@@ -257,24 +196,33 @@ Completed hands-on lab focusing on data loading, cleaning, and transformation te
 
 ## 📝 Repository Structure
 ```
-tableau-powerbi-projects/
+tableau-projects/
 │
 ├── global-health-insights/
-│   ├── dashboard-screenshots/
-│   └── data/
+│   ├── screenshots/
+│   ├── data/
+│   └── README.md
 │
 ├── spotify-trends/
-│   ├── dashboard-screenshots/
-│   └── data/
-│
-├── powerbi-reports/
-│   ├── financial-sales/
-│   ├── sales-integration/
-│   └── data-cleaning-lab/
+│   ├── screenshots/
+│   ├── data/
+│   └── README.md
 │
 └── README.md
 ```
 
 ---
 
-**Note**: All projects demonstrate real-world business intelligence scenarios with practical applications across healthcare, entertainment, and business sectors. Datasets range from 200+ rows to 232,000+ records, showcasing scalability and performance optimization skills.
+## 🎨 Visualization Philosophy
+
+My approach to data visualization in Tableau focuses on:
+
+1. **Clarity First**: Every chart should answer a specific question
+2. **Interactivity**: Users should explore data at their own pace
+3. **Context Matters**: Visualizations should tell a complete story
+4. **Performance**: Fast, responsive dashboards even with large datasets
+5. **Aesthetics**: Professional design that enhances comprehension
+
+---
+
+**Note**: All projects demonstrate real-world business intelligence scenarios with practical applications across healthcare and entertainment sectors. Each dashboard is publicly accessible on Tableau Public for interactive exploration.
