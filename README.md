@@ -190,26 +190,7 @@ Explore my interactive Tableau dashboards:
 
 ## 🤝 Connect With Me
 
-*Add your professional links here (LinkedIn, Portfolio, Email, etc.)*
-
----
-
-## 📝 Repository Structure
-```
-tableau-projects/
-│
-├── global-health-insights/
-│   ├── screenshots/
-│   ├── data/
-│   └── README.md
-│
-├── spotify-trends/
-│   ├── screenshots/
-│   ├── data/
-│   └── README.md
-│
-└── README.md
-```
+https://www.linkedin.com/in/marvyccmo/
 
 ---
 
